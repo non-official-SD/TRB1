@@ -1,0 +1,10 @@
+INCLUDE(../../../../cmake/macros.cmake)
+
+SD_ADD_SUBDIRECTORY(trb1-boxer-trbrs)
+SD_ADD_SUBDIRECTORY(trb1-cavallo-360rb)
+SD_ADD_SUBDIRECTORY(trb1-sector-rb1)
+SD_ADD_SUBDIRECTORY(trb1-silber-rblk)
+SD_ADD_SUBDIRECTORY(trb1-spirit-rb1lt)
+SD_ADD_SUBDIRECTORY(trb1-taipan-rb1)
+SD_ADD_SUBDIRECTORY(trb1-vieringe-5rb/)
+SD_ADD_SUBDIRECTORY(trb1-zaxxon-rb)
